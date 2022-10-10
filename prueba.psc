@@ -24,6 +24,9 @@ Repetir
 				Escribir 'La opción no es válida';
 		Fin Segun
 		
+		
+		
+		Escribir 'esta es otra prueba para git';
 		Escribir 'esta es una prueba de git';
 		
 		Escribir 'Seguimos? si/no';
